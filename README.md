@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jhayro-Sasaqui
 - 👀 I’m interested in Science, Tech, Startups & Education
-- 🌱 I’m currently learning JavaScript
+- 🚀 I'm building startups in the knowledge industry 
+- 🌱 I’m currently learning JavaScript, Azure, AR & ML
 - 💞️ I’m looking to collaborate on any project that want to create a better world 
 - 📫 How to reach me: https://www.twitter.com/JairoSsq 
 
