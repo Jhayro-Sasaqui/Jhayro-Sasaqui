@@ -3,7 +3,7 @@
 - 🚀 I'm building startups in the knowledge industry 
 - 🌱 I’m currently learning JavaScript, Azure, AR & ML
 - 💞️ I’m looking to collaborate on any project that want to create a better world 
-- 📫 How to reach me: https://www.twitter.com/JairoSsq 
+- 📫 How to reach me: https://www.twitter.com/JairoProDev
 
 <!---
 Jhayro-Sasaqui/Jhayro-Sasaqui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
